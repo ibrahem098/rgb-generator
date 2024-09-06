@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    font-size: 70px;
+    overflow: hidden;
+    padding: 25vh;
+    line-height: 100px;
+    z-index: 1;
+}
+
+span {
+    font-size: 100px;
+    color: white;
+    position: absolute;
+    left: 400px;
+    z-index: 0;
+}
+
+p {
+    color: white;
+    font-weight: 100;
+}
