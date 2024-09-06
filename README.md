@@ -1,11 +1,8 @@
-# My Awesome Project
+# rgb-generator
 
-This project is designed to solve problems and make life easier. Below is a demonstration of the functionality.
+simple web page that generates random RGB colors every second.
 
+
+## How It Works
+click to generate 🔮 click to copy rgb 🖇
 ![Demo GIF](https://s11.gifyu.com/images/S1IRC.gif)
-
-## Features
-
-- User-friendly interface
-- Cross-platform support
-- Fast and efficient
